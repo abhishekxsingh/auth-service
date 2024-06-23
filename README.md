@@ -107,6 +107,10 @@ docker-compose kill
 
 ## Run the Server
 ```
+$ cd server
+
+$ pnpm install
+
 $ npm run start
 ```
 ## Run the test cases
