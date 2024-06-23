@@ -1,0 +1,7 @@
+{
+  "all": true,
+  "excludeNodeModules": true,
+  "exclude": ["test","database","dto-schemas","routes","config","server.js",".eslintrc.js","index.js","coverage","graphql"],
+  "check-coverage": false,
+  "reporter":["html","text"]
+}
